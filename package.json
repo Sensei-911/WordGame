@@ -1,0 +1,25 @@
+{
+  "name": "kelime-turetmece",
+  "version": "2.7.3",
+  "description": "Kelime türetmece oynayabilmeniz için gereken her şey",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "keywords": [
+    "discord",
+    "eris",
+    "kelime",
+    "türetmece"
+  ],
+  "author": "sensei",
+  "license": "MIT",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "colors": "^1.4.0",
+    "enmap": "^5.8.5",
+    "eris": "^0.15.0",
+    "fancy-log": "^1.3.3",
+    "node-fetch": "^2.6.1"
+  }
+}

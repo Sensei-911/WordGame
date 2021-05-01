@@ -1,0 +1,59 @@
+{
+
+"en": {
+"alphabet": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r",  "s", "t", "u", "v", "w", "x", "y", "z"],
+
+"ready": "Boot success!", 
+"logoName": "Word Game",
+
+"prefix": "Hi my prefix is",
+"cooldown": "This command can be used again in **%msg%** second",
+"recovery": "This command is __incomplete__ please try again later.",
+"error": "An error happened while executing this command please try again later.",
+"success": "Success",
+"permissionError": "To do this, you must have the manage server permission.",
+
+"wordError": "Error",
+"wordError1": "Wait for another user to type, you can't write twice.",
+"wordError2": "The message you wrote does not start with the letter `%msg%`.",
+"wordError3": "The message you wrote is not a word!",
+"wordError4": "This word has been used before.",
+"wordError5": "This word causes the game to end prematurely and can be used after `%msg%` word",
+"wordError6": "finished the game using a word ending with ğ you can write the next word by the letter `%msg%`!",
+"gameOver": "Game Over",
+"changedLanguage": "Oyun dili değiştirildi tekrar deneyin.",
+
+"help": "Command List",
+"leaderboard": "🏆 Leaderboard",
+"reset": "The game has been reset. You can re-write the words previously written. Proceed according to the letter `%msg%`."
+},
+
+"tr": {
+"alphabet": ["a", "b", "c", "ç", "d", "e", "f", "g", "ğ", "h", "ı", "i", "j", "k", "l", "m", "n", "o" , "ö", "p", "r", "s", "ş", "t", "u", "ü", "v", "y", "z"],
+
+"ready": "Bot başlatıldı!", 
+"logoName": "Kelime Oyunu",
+
+"prefix": "Merhaba prefix'im",
+"cooldown": "Bu komut **%msg%** saniye içinde kullanılabilir",
+"recovery": "Bu komut __tamamlanmamış__ lütfe sonra tekrar deneyin.",
+"error": "Bu komut uygulanırken bir hata oluşta lütfen sonra tekrar deneyin.",
+"success": "Başarılı",
+"permissionError": "Bu işlemi yapabilmek için sunucuyu yönet yetkisine sahip olmalısınız!",
+
+"wordError": "Hata",
+"wordError1": "Başka bir kullanıcının yazmasını bekleyin üst üste yazamazsınız.",
+"wordError2": "Yazdığınız mesaj `%msg%` harfiyle başlamıyor.",
+"wordError3": "Yazdığınız mesaj TDK'ya göre bir kelime değil!",
+"wordError4": "Bu kelime daha önce kullanıldı!",
+"wordError5": "Bu kelime oyunun erken bitmesine neden oluyor ve `%msg%` kelime sonra kullanılabilir!",
+"wordError6": "ğ ile biten bir kelime kullanarak oyunu bitirdi sonraki kelimeyi `%msg%` harfine göre yazabilirsiniz!",
+"gameOver": "Oyun Sıfırlandı",
+"changedLanguage": "Oyun dili değiştirildi tekrar deneyin.",
+
+"help": "Komut Listesi",
+"leaderboard": "🏆 Liderler Sıralaması",
+"reset": "Oyun sıfırlandı daha önce yazılmış olan kelimeleri tekrardan yazabilirsiniz `%msg%` harfine göre devam edin."
+}
+
+}
