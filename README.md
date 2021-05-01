@@ -1,8 +1,8 @@
 # How to set up
 1. Fill the config.json
 2. Install the required npm packages
-3. Enjoy
+3. Choose a language (tr, en)
 
-# Language Support
+# Authors
 
-Full translated tr, en
+Sensei - Coded everything - [Github Profile](https://github.com/Sensei-911)
