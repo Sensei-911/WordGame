@@ -1,7 +1,7 @@
 {
-  "name": "kelime-turetmece",
+  "name": "word",
   "version": "2.7.3",
-  "description": "Kelime türetmece oynayabilmeniz için gereken her şey",
+  "description": "everything you need to play word derivation",
   "main": "index.js",
   "scripts": {
     "test": "node ./src/index.js"
